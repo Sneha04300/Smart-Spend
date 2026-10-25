@@ -1,5 +1,5 @@
 
-#Smart Spend — Retail Spending Intelligence & Decision Support
+Smart Spend — Retail Spending Intelligence & Decision Support
 
 An Advanced Data Science Project using the BADIR Framework
 
